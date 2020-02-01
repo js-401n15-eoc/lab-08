@@ -1,6 +1,6 @@
 # LAB - Express Routing & Connected API
 
-## The Last of the API Stuff
+## Create well architected, multiple resource (model) API server, connected to a Mongo Database
 
 ### Author: Earl Jay Caoile
 
@@ -16,4 +16,4 @@
 * Testing command: `npm test` from root directory
 
 #### UML
-![UML Image](lab-07-UML.png "uml diagram")
+![UML Image](lab-08-UML.png "uml diagram")
