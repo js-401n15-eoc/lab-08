@@ -5,8 +5,8 @@
 ### Author: Earl Jay Caoile
 
 ### Links and Resources
-* [submission PR](https://github.com/js-401n15-eoc/lab-07/pull/1)
-* [GitHub Actions](https://github.com/js-401n15-eoc/lab-07/actions)
+* [submission PR](https://github.com/js-401n15-eoc/lab-08/pull/1)
+* [GitHub Actions](https://github.com/js-401n15-eoc/lab-08/actions)
 
 #### Documentation
 * [MongoDB docs (MongoDB CRUD Operations)](https://docs.mongodb.com/manual/crud/)
